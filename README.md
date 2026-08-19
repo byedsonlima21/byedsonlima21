@@ -12,7 +12,7 @@
 <h3 align="left">🌱 Currently</h3>
 
 <p align="left">
-🔭 Working on: Expanding my knowledge in Python, Data Structures & Algorithms<br>
+🔭 Working on: Constantly improving my skills and expanding my tech stack<br>
 🌱 Learning: Python, Data Structures & Algorithms<br>
 🎯 2026 goal: my first internship / junior role<br>
 💬 Ask me about: Python basics, my learning journey
