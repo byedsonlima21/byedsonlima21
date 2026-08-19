@@ -1,45 +1,69 @@
-<h2 data-importer="text" align="left">Hello World! I'm Edson Lima! 👋</h2>
+<h2 align="left">Hello World! I'm Edson Lima! 👋</h2>
 
 ###
 
-<p data-importer="text" align="left">🎓 Software Engineering student |  Learning Python<br>🚀 Exploring Software Development, Data, AI & DevOps.<br>📚 Building my foundations, projects and portfolio from the ground up.<br>📫 Entre em contato: edsonerione@gmail.com</p>
+<p align="left">
+🎓 Software Engineering student | Currently learning Python<br>
+🚀 Exploring Software Development, Data, AI & DevOps.<br>
+📚 Building my skills, projects and portfolio step by step.<br>
+📫 Contact me: edsonerione@gmail.com
+</p>
 
 ###
 
-<h2 data-importer="text" align="left">🛠️ Skills</h2>
+<h2 align="left">🛠️ Tech Stack</h2>
 
 ###
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
 </div>
 
 ###
 
-<h2 data-importer="text" align="left">📫 Let's connect!</h2>
+<h2 align="left">📫 Let's connect!</h2>
 
 ###
 
-<div data-importer="socials" align="left">
+<div align="left">
   <a href="https://www.linkedin.com/in/edsonlima21/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   </a>
-  <a href="mailto:edsonerione@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
+  <a href="mailto:edsonerione@gmail.com">
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
 </div>
 
 ###
 
-<div data-importer="stats" align="center">
-  <img src="https://raw.githubusercontent.com/byedsonlima21/byedsonlima21/stats-output/stats.svg?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://raw.githubusercontent.com/byedsonlima21/byedsonlima21/languages-output/languages.svg?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+<h2 align="left">📊 GitHub Stats</h2>
+
+###
+
+<div align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=byedsonlima21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
+    height="150"
+    alt="GitHub stats"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=byedsonlima21&layout=compact&langs_count=5&theme=tokyonight&hide_border=false"
+    height="150"
+    alt="Top languages"
+  />
 </div>
 
 ###
 
-<br clear="both">
+<h2 align="left">🐍 Contribution Snake</h2>
 
-<img data-importer="snake" src="https://raw.githubusercontent.com/byedsonlima21/byedsonlima21/snake-output/snake.svg" alt="Snake animation" />
+###
+
+<div align="center">
+  <img
+    src="https://raw.githubusercontent.com/byedsonlima21/byedsonlima21/output/snake.svg"
+    alt="Snake animation"
+  />
+</div>
 
 ###
