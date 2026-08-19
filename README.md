@@ -1,4 +1,4 @@
-<h2 align="left">Hello World! I'm Edson Lima! 👋</h2>
+<h1 align="left">Hello World! I'm Edson Lima! 👋</h1>
 
 ###
 
@@ -11,7 +11,7 @@
 
 ###
 
-<h2 align="left">🛠️ Tech Stack</h2>
+<h3 align="left">🛠️ Tech Stack</h3>
 
 ###
 
@@ -21,7 +21,7 @@
 
 ###
 
-<h2 align="left">📫 Let's connect!</h2>
+<h3 align="left">📫 Let's connect!</h3>
 
 ###
 
@@ -32,34 +32,6 @@
   <a href="mailto:edsonerione@gmail.com">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo" />
   </a>
-</div>
-
-###
-
-<h2 align="left">📊 GitHub Stats</h2>
-
-###
-
-<div align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=byedsonlima21&show_icons=true&include_all_commits=true&count_private=true&theme=tokyonight&hide_border=false"
-    height="150"
-    alt="GitHub stats"
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=byedsonlima21&layout=compact&langs_count=5&theme=tokyonight&hide_border=false"
-    height="150"
-    alt="Top languages"
-  />
-</div>
-
-###
-
-<div align="center">
-  <img
-    src="https://raw.githubusercontent.com/byedsonlima21/byedsonlima21/output/snake.svg"
-    alt="Snake animation"
-  />
 </div>
 
 ###
