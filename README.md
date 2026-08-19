@@ -55,10 +55,6 @@
 
 ###
 
-<h2 align="left">🐍 Contribution Snake</h2>
-
-###
-
 <div align="center">
   <img
     src="https://raw.githubusercontent.com/byedsonlima21/byedsonlima21/output/snake.svg"
