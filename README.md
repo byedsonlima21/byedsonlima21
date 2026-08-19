@@ -45,8 +45,7 @@
 <h3 align="left">📌 Featured Projects</h3>
 
 <p align="left">
-🔹 <a href="LINK_DO_SEU_REPO">Nome do projeto</a> — uma linha curta descrevendo o que faz e o que você aprendeu.<br>
-🔹 <a href="LINK_DO_SEU_REPO">Nome do projeto</a> — uma linha curta descrevendo o que faz e o que você aprendeu.
+🔹 <a href="https://github.com/byedsonlima21/ProjetoCredIA.git">CredIA</a> — Assistente financeiro inteligente focado em privacidade que centraliza e organiza os gastos de múltiplos cartões de crédito em linguagem natural, sem pedir dados sensíveis..<br>
 </p>
 
 <hr>
