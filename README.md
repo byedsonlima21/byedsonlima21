@@ -35,3 +35,7 @@
 </div>
 
 ###
+
+<img data-importer="snake" src="https://raw.githubusercontent.com/byedsonlima21/byedsonlima21/snake-output/snake.svg" alt="Snake animation" />
+
+###
